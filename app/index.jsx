@@ -98,6 +98,7 @@ const styles = StyleSheet.create({
         alignItems: "center",
         justifyContent: "space-between",
         paddingHorizontal: 4,
+        paddingTop: 8,
     },
     title: {
         fontFamily: "serif",
@@ -111,5 +112,6 @@ const styles = StyleSheet.create({
         width: 32,
         height: 32,
         opacity: 0.9,
+        marginTop: 10,
     },
 });

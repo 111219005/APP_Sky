@@ -4,7 +4,21 @@
     "plugins": [
       "expo-router"
     ],
-    "name": "wk5",
-    "slug": "wk5"
+    "name": "Sky",
+    "slug": "app-wk5-sky",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "57d7f6a2-2d9a-4e23-9e6e-18c6bb297ec5"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/57d7f6a2-2d9a-4e23-9e6e-18c6bb297ec5"
+    },
+    "android": {},
+    "ios": {}
   }
 }
